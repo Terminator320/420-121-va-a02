@@ -1,8 +1,6 @@
-i added a line at the beginning 
+add to the start i added a line at the beginning 
 
 this is the second
 
 
 i added a line here 
-
-i added more 
